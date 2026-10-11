@@ -6,9 +6,11 @@ then drag to rotate and scroll to zoom.
 
 Full write-ups, photos and design reports are on [orialgave.com](https://orialgave.com).
 
-| ![IREC rocket](images/rocket.gif) | ![eVTOL airframe](images/evtol.gif) | ![Air-engine mixer](images/mixer.gif) |
-|:-:|:-:|:-:|
-| IREC competition rocket | eVTOL airframe | Air-engine mixer assembly |
+| ![IREC rocket](images/rocket.gif) | ![Modular desktop wind tunnel](images/tunnel.gif) |
+|:-:|:-:|
+| IREC competition rocket | Modular desktop wind tunnel |
+| ![eVTOL airframe](images/evtol.gif) | ![Air-engine mixer](images/mixer.gif) |
+| eVTOL airframe | Air-engine mixer assembly |
 
 
 ## Swamp Launch rocket design and CFD
@@ -25,7 +27,29 @@ planning, so the simulation and the physical test were checking the same shape.
 | [IREC competition rocket](models/swamp-launch-competition-rocket.stl) | The full vehicle |
 | [Wind-tunnel test assembly](models/swamp-launch-wind-tunnel-assembly.stl) | The rocket model on its test mount |
 
-[Project page](https://orialgave.com/projects/swamp-launch-rocket-design-cfd)
+[Project page](https://orialgave.com/portfolio/swamp-launch-rocket-design-cfd)
+
+## Modular desktop wind tunnel
+
+*Personal project · May to September 2025*
+
+Designed and built a working wind tunnel from scratch over 80+ hours of SolidWorks
+CAD. The nozzle, diffuser and test-section geometry were refined with guidance from
+aerodynamic literature, so the intake, test section and exhaust work together as one
+flow path. Air enters through the intake cone, which contracts it toward the test
+section, then passes a honeycomb connector that straightens it before it reaches the
+model. The test section carries an LED bar and a model mount, with a second honeycomb
+downstream before the exhaust tube. The assembly is about 71 cm long and 20 cm across,
+built from seven separate parts.
+
+| Model | |
+|---|---|
+| [Full assembly](models/modular-wind-tunnel-assembly.stl) | Intake cone, honeycomb connectors, test section, LED bar and exhaust tube |
+| [Cutaway](models/modular-wind-tunnel-cutaway.stl) | Cut along the centerline to show the flow path |
+
+![Wind tunnel cutaway, rotating](images/cut.gif)
+
+[Project page](https://orialgave.com/portfolio/modular-desktop-wind-tunnel)
 
 ## Air-engine mixer
 
@@ -41,7 +65,7 @@ block, and designed the selected concept.
 | [Compressed-air engine](models/air-engine.stl) | Base, flywheel, piston and piston block |
 | [Full mixer assembly](models/air-engine-mixer-assembly.stl) | Air engine, flat-belt drive, stepped drive shaft, bearing tensioner, PETG H-Block and twist-lock jar interface |
 
-[Project page](https://orialgave.com/projects/air-engine-mixer)
+[Project page](https://orialgave.com/portfolio/air-engine-mixer)
 
 ## Design/Build/Fly eVTOL aircraft
 
@@ -55,7 +79,7 @@ fuselage, with positive carbon-fiber molding.
 |---|---|
 | [eVTOL aircraft](models/dbf-evtol-plane.stl) | The competition airframe |
 
-[Project page](https://orialgave.com/projects/design-build-fly-aircraft)
+[Project page](https://orialgave.com/portfolio/design-build-fly-aircraft)
 
 ## About the files
 
