@@ -6,6 +6,11 @@ then drag to rotate and scroll to zoom.
 
 Full write-ups, photos and design reports are on [orialgave.com](https://orialgave.com).
 
+| ![IREC rocket](images/rocket.gif) | ![eVTOL airframe](images/evtol.gif) | ![Air-engine mixer](images/mixer.gif) |
+|:-:|:-:|:-:|
+| IREC competition rocket | eVTOL airframe | Air-engine mixer assembly |
+
+
 ## Swamp Launch rocket design and CFD
 
 *Swamp Launch Rocket Team · Aerosciences / Staging Engineer · Aug 2025 to present*
